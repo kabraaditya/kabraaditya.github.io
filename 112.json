@@ -1,0 +1,18 @@
+{
+    "name":"demo app",
+    "short_name":"DP",
+    "theme_color":"#fff",
+    "background_color":"#009200",
+    "display":"standalone",
+    "orientation":"portrait",
+    "scope":".",
+    "start_url":".",
+    "icons":[
+        {
+            "src":"mun.jpg",
+            "sizes":"480x480",
+            "type":"image/jpg",
+            
+        }
+    ]
+}
